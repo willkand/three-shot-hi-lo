@@ -35,5 +35,5 @@ I'm thinking of a number bewtween 1 and 100. Try to guess it.
 Sorry, too low! Guess again.
 > 20
 
-Congratulations, 0 is correct!
+Congratulations, 20 is correct!
 ```
