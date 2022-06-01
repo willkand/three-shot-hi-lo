@@ -18,9 +18,9 @@ I'm thinking of a number bewtween 1 and 100. Try to guess it.
 > 13
 
 Sorry, too low! Guess again.
-> 20
+> 50
 
-Sorry, too low! Guess again.
+Sorry, too high! Guess again.
 > 30
 
 Sorry too low. I was thinking of 40.
@@ -35,5 +35,5 @@ I'm thinking of a number bewtween 1 and 100. Try to guess it.
 Sorry, too low! Guess again.
 > 20
 
-Congratulations, 30 is correct!
+Congratulations, 0 is correct!
 ```
